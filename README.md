@@ -10,7 +10,7 @@
 
 Build retrieval systems: chunking, embeddings, vector stores, hybrid search, and grounded RAG pipelines.
 
-> **Status**: scaffolded by `aicg org bootstrap-role`. The curriculum is not authored yet. Run `aicg org research` and `aicg org daily` to drive the autonomous fill-in loop.
+> **Status**: curriculum plan authored (2026-08-06). 12 modules (164 h) + 3 projects (120 h) = ~284 h laid out in [`.aicg/curriculum-plan.json`](.aicg/curriculum-plan.json) and mirrored in [`CURRICULUM.md`](CURRICULUM.md). Only [`lessons/mod-001-rag-foundations/`](lessons/mod-001-rag-foundations/README.md) is currently drafted (a pre-plan scaffold, subsumed by `mod-101`); the remaining modules and projects will be built out by subsequent autonomous content cycles.
 
 ## Layout
 
