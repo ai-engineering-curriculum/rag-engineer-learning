@@ -1,5 +1,9 @@
 # RAG & Retrieval Engineer Curriculum
 
+<!-- aicg:orientation:start -->
+> **Start here:** [Module 00: Your Relationship to the Model](lessons/00-your-relationship-to-the-model/README.md). Where this role sits relative to the model, what it owns, and who it works with across the five curricula.
+<!-- aicg:orientation:end -->
+
 **Role level:** 30 (retrieval-engineering specialist — AI Engineering family)
 **Family:** AI Engineering
 **Status:** planned — modules and projects below are the planned scope authored from [`.aicg/curriculum-plan.json`](.aicg/curriculum-plan.json). Lessons and projects will be drafted by subsequent autonomous content cycles. Only [`lessons/mod-001-rag-foundations/`](lessons/mod-001-rag-foundations/README.md) is currently authored (a pre-plan scaffold) — its material is subsumed by `mod-101-retrieval-engineering-foundations` and will be migrated on the next content pass.
